@@ -5,7 +5,7 @@
 ##############################################################
 
 AESD_ASSIGNMENTS_VERSION = master
-AESD_ASSIGNMENTS_SITE = git@github.com:pkrkrish/assignment-8-pkrkrish.git
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignment-8-pkrkrish.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
